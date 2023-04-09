@@ -130,4 +130,6 @@ Strong梯子是一款来自美国的梯子工具，拥有超过950个服务器�
 综上所述，Nord梯子、Express梯子、Ivacy梯子、Pure梯子和Strong梯子都是优秀的梯子工具，各自具有不同的特点和服务优势。在这五款梯子中，Nord梯子因其高速、安全、稳定等优点被公认为世界最佳梯子。希望本文对您选择合适的梯子工具有所帮助。在使用梯子时，请务必遵守当地的法律法规，合法合规使用。
 
 
+欢迎fork [https://github.com/youcheng1847cx/waiwang](https://github.com/youcheng1847cx/waiwang)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=youcheng1847cx.waiwang&left_color=white&right_color=white)
