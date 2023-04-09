@@ -132,4 +132,4 @@ Strong梯子是一款来自美国的梯子工具，拥有超过950个服务器�
 
 欢迎fork [https://github.com/youcheng1847cx/waiwang](https://github.com/youcheng1847cx/waiwang)
 
-![](https://visitor-badge.glitch.me/badge?page_id=youcheng1847cx.waiwang&left_color=white&right_color=white)
+![wish](https://visitor-badge.glitch.me/badge?page_id=youcheng1847cx.waiwang&left_color=white&right_color=white)
