@@ -110,15 +110,5 @@ class RemoveOutsideCollaborators {
     this.github.issues.create(createIssueParams)
   }
 
-  removeCollaborator () {
-    const removeParams = {
-      owner: this.payload.repository.owner.login,
-      repo: this.repo.repo,
-      username: this.payload.member.login
-    }
-    const toRemovalParams = Object.assign({}, this.repo, removeParams || {})
-    this.github.repos.removeCollaborator(toRemovalParams)
-  }
-}
 
 module.exports = RemoveOutsideCollaborators
